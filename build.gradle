@@ -1,0 +1,2 @@
+compileOnly 'org.projectlombok:2023.3.4'
+annotationProcessor 'org.projectlombok:2023.3.4'
